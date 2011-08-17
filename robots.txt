@@ -3,3 +3,5 @@
 
 User-agent: *
 
+User-Agent: bender
+Disallow: /my_shiny_metal_ass
